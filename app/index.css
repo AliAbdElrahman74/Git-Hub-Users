@@ -1,0 +1,57 @@
+.users {
+	width: 240px;
+	border: 1px solid black ; 
+	overflow-y: scroll;
+	height: 650px;
+	float: left;
+}
+
+
+.link {
+	width: 200px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.link img {
+	float: left;
+	margin-left: 10px;
+	border-radius: 20px;
+}
+
+.linkText {
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+
+.content {
+	width: 100%;
+}
+
+.userInfo {
+	float: right;
+}
+
+.userImage {
+	width: 100%;
+
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+
+}
+
+.userImage img {
+	border-radius: 50%;
+}
+
+
+.userInfo {
+	width: 1030px;
+}
+
+.userName {
+	border-bottom: 1px solid black;
+	padding-bottom: 30px;
+}
